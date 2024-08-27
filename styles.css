@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.miembroDelImperio{
+    background-color: red;
+}
+
+
+.miembroDeRebeldes{
+    background-color: blue;
+}
+
+#darthVaderTitulo{
+    font-size: 20px ;
+}
+
+#lukeTitulo{
+    font-style: italic;
+}
+
+.soldado{
+    border: 3px black dashed;
+    letter-spacing: 5px;
+}
+
+.unidadDeApoyo{
+    text-align: center;
+}
+
+.nave{
+    text-transform: uppercase;
+}
